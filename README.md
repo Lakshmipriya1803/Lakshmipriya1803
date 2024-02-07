@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Lakshmipriya1803
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning Data analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - lakshmipriyas1803@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
 
 <!---
 Lakshmipriya1803/Lakshmipriya1803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
